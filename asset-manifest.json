@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/prescription-for-the-stars-v2/static/css/main.b8a37b03.chunk.css",
-    "main.js": "/prescription-for-the-stars-v2/static/js/main.0a9b0ee8.chunk.js",
-    "main.js.map": "/prescription-for-the-stars-v2/static/js/main.0a9b0ee8.chunk.js.map",
-    "runtime-main.js": "/prescription-for-the-stars-v2/static/js/runtime-main.d7aaea83.js",
-    "runtime-main.js.map": "/prescription-for-the-stars-v2/static/js/runtime-main.d7aaea83.js.map",
-    "static/js/2.c8e0b387.chunk.js": "/prescription-for-the-stars-v2/static/js/2.c8e0b387.chunk.js",
-    "static/js/2.c8e0b387.chunk.js.map": "/prescription-for-the-stars-v2/static/js/2.c8e0b387.chunk.js.map",
-    "static/js/3.b6e286c9.chunk.js": "/prescription-for-the-stars-v2/static/js/3.b6e286c9.chunk.js",
-    "static/js/3.b6e286c9.chunk.js.map": "/prescription-for-the-stars-v2/static/js/3.b6e286c9.chunk.js.map",
-    "index.html": "/prescription-for-the-stars-v2/index.html",
-    "static/css/main.b8a37b03.chunk.css.map": "/prescription-for-the-stars-v2/static/css/main.b8a37b03.chunk.css.map",
-    "static/js/2.c8e0b387.chunk.js.LICENSE.txt": "/prescription-for-the-stars-v2/static/js/2.c8e0b387.chunk.js.LICENSE.txt",
-    "static/media/webf.css": "/prescription-for-the-stars-v2/static/media/MGo-SUB-R.fc1e34c5.woff"
+    "main.css": "/static/css/main.185560c2.chunk.css",
+    "main.js": "/static/js/main.0a9b0ee8.chunk.js",
+    "main.js.map": "/static/js/main.0a9b0ee8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8650f239.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8650f239.js.map",
+    "static/js/2.c8e0b387.chunk.js": "/static/js/2.c8e0b387.chunk.js",
+    "static/js/2.c8e0b387.chunk.js.map": "/static/js/2.c8e0b387.chunk.js.map",
+    "static/js/3.b6e286c9.chunk.js": "/static/js/3.b6e286c9.chunk.js",
+    "static/js/3.b6e286c9.chunk.js.map": "/static/js/3.b6e286c9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.185560c2.chunk.css.map": "/static/css/main.185560c2.chunk.css.map",
+    "static/js/2.c8e0b387.chunk.js.LICENSE.txt": "/static/js/2.c8e0b387.chunk.js.LICENSE.txt",
+    "static/media/webf.css": "/static/media/MGo-SUB-R.fc1e34c5.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7aaea83.js",
+    "static/js/runtime-main.8650f239.js",
     "static/js/2.c8e0b387.chunk.js",
-    "static/css/main.b8a37b03.chunk.css",
+    "static/css/main.185560c2.chunk.css",
     "static/js/main.0a9b0ee8.chunk.js"
   ]
 }
