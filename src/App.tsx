@@ -30,11 +30,6 @@ function App(): JSX.Element {
                   星の処方箋
                 </Link>
               </li>
-              <li className={style["nav-link-item"]}>
-                <Link to="/hoshikagelab" className={style["nav-link-text"]}>
-                  hoshikageLAB.
-                </Link>
-              </li>
             </ul>
           </nav>
           <Switch>
@@ -47,9 +42,6 @@ function App(): JSX.Element {
             <Route exact path="/prescription">
               <Prescriptions />
             </Route>
-            {/* <Route exact path="/hoshikagelab">
-              <Hoshikagelab />
-            </Route> */}
             <div>
               {pres.map((pre) => (
                 <Route exact path={pre.path}>

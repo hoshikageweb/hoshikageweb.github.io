@@ -13,7 +13,7 @@ function About(): JSX.Element {
       <div className={style["general-container"]}>
         <h2 className={style["heading"]}>/About US</h2>
         <img
-          src="/prescription-for-the-stars-v2/test/logo2.png"
+          src="test/logo2.png"
           width="400px"
           alt="ほしかげ薬局"
         />

@@ -12,7 +12,7 @@ function Home(): JSX.Element {
       </Helmet>
       <h2 className={style["heading"]}>/Home</h2>
       <img
-        src="/prescription-for-the-stars-v2/test/logo.png"
+        src="/test/logo.png"
         width="400px"
         alt="ほしかげ薬局"
       />
