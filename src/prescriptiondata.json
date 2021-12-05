@@ -31,15 +31,6 @@
         "hashira/hashira-sample1.png",
         "hashira/hashira-sample2.png"
       ]
-    },
-    {
-      "title": "DPIテスト",
-      "path": "/prescription/05",
-      "imgs": [
-        "test2/300.png",
-        "test2/350.png",
-        "/test2/600.png"
-      ]
     }
   ]
 }
