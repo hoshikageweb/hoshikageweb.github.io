@@ -1,0 +1,88 @@
+.container {
+  font-family: MGo, sans-serif;
+  height: 100%;
+}
+
+.heading {
+  color: #272822;
+}
+
+nav {
+  background-color: #FCD4D5;
+  border-top: 2px dotted #6846A5;
+  border-bottom: 2px dotted #6846A5;
+}
+
+nav a:hover {
+  color: #F08300;
+}
+
+.nav-links-reader {
+  display: flex;
+  list-style: none;
+  padding-left: 40px;
+  margin: 1px 0px 1px 0px;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  padding-left: 40px;
+  margin: 1px 0px 1px 0px;
+}
+
+.nav-link-item {
+  padding-left: 2rem;
+  margin: 1px 0px 1px 0px;
+}
+
+.nav-link-text {
+  color: black;
+}
+
+.site-title {
+  font-size: 2.6rem;
+  color: #5ac2d9;
+  font-weight: 700;
+  padding-left: 30px;
+}
+
+.general-link-container {
+  width: 40px;
+  padding-left: 34px;
+  text-align: left;
+}
+
+.text-color {
+  color: black;
+}
+
+.general-container {
+  padding-left: 30px;
+}
+
+/* Below is the layout for tablets and smartphones.==================== */
+@media screen and (max-width: 1000px) {
+  .heading {
+    color: #F08300;
+    text-align: center;
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    justify-content: center;
+  }
+  
+  .site-title {
+    font-size: 3rem;
+    color: #5ac2d9;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .general-container .general-link-container {
+    text-align: center;
+  }
+}

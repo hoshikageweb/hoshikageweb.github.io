@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'MGo';
+  src: url('./fonts/MGo-SUB-R.woff') format('woff'),
+       url('./fonts/MGo-SUB-R.woff2') format('woff2'),
+       url('./fonts/MGo-SUB-R.otf') format('opentype');
+}

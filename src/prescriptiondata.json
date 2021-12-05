@@ -1,0 +1,45 @@
+{
+  "prescriptions": [
+    {
+      "title": "test1",
+      "path": "/prescription/01",
+      "imgs": [
+        "/prescription-for-the-stars-v2/test/naja.png",
+        "/prescription-for-the-stars-v2/test/logo.png",
+        "/prescription-for-the-stars-v2/test/logo2.png"
+      ]
+    },
+    {
+      "title": "test2",
+      "path": "/prescription/02",
+      "imgs": ["/prescription-for-the-stars-v2/test/naja.png"]
+    },
+    {
+      "title": "漫画テスト",
+      "path": "/prescription/03",
+      "imgs": [
+        "/prescription-for-the-stars-v2/shimachi/ceo01.jpg",
+        "/prescription-for-the-stars-v2/shimachi/ceo02.jpg",
+        "/prescription-for-the-stars-v2/shimachi/ceo03.jpg",
+        "/prescription-for-the-stars-v2/shimachi/ceo04.jpg"
+      ]
+    },
+    {
+      "title": "小説テスト",
+      "path": "/prescription/04",
+      "imgs": [
+        "/prescription-for-the-stars-v2/hashira/hashira-sample1.png",
+        "/prescription-for-the-stars-v2/hashira/hashira-sample2.png"
+      ]
+    },
+    {
+      "title": "DPIテスト",
+      "path": "/prescription/05",
+      "imgs": [
+        "/prescription-for-the-stars-v2/test2/300.png",
+        "/prescription-for-the-stars-v2/test2/350.png",
+        "/prescription-for-the-stars-v2/test2/600.png"
+      ]
+    }
+  ]
+}
